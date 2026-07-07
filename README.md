@@ -1,11 +1,25 @@
 # Python Basics
 
-This repository contains my Python refresher exercises and Git/GitHub learning journey.
+A collection of Python refresher exercises as I prepare for Data Analytics and Machine Learning.
+
+## Topics Covered
+
+- Python basics
+- Git fundamentals
+- GitHub workflow
 
 ## Files
 
-- hello.py - Simple greeting program
-- math.py - Simple addition function
+| File | Description |
+|------|-------------|
+| hello.py | Prints a greeting |
+| math.py | Demonstrates a simple addition function |
+
+## Technologies
+
+- Python
+- Git
+- GitHub
 
 ## Author
 
